@@ -7,7 +7,7 @@ xquery version "3.1";
  : @see https://leliebe.github.io
  :)
 
-module namespace tests = "http://exist-db.org/apps/weirdcorpus/tests";
+module namespace tests = "http://exist-db.org/apps/weirdc/tests";
 
 declare namespace test="http://exist-db.org/xquery/xqsuite";
 

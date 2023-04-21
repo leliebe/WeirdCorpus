@@ -2,7 +2,7 @@
 
 [![License][license-img]][license-url]
 [![GitHub release][release-img]][release-url]
-![exist-db CI](https://github.com/leliebe/weirdcorpus/workflows/exist-db%20CI/badge.svg)
+[![Build Status][travis-image]][travis-url]
 
 <img src="icon.png" align="left" width="25%"/>
 
@@ -98,3 +98,6 @@ MIT © [lauren_liebe](https://leliebe.github.io)
 [license-url]: https://opensource.org/licenses/MIT
 [release-img]: https://img.shields.io/badge/release-1.0.0-green.svg
 [release-url]: https://github.com/leliebe/weirdcorpus/releases/latest
+
+[travis-image]: https://travis-ci.com/leliebe/weirdcorpus.svg?branch=main
+[travis-url]: https://travis-ci.com/leliebe/weirdcorpus
